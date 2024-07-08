@@ -1,5 +1,3 @@
-Got it. Here's the updated README.md file that includes the usage of the RapidAPI:
-
 # React Fitness Application
 
 This project is a responsive fitness application built with React, providing users with various features to manage and track their fitness activities. It offers an intuitive and visually appealing interface for users to browse workout plans, track progress, and more.
